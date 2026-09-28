@@ -1,0 +1,9 @@
+# Игнорируем артефакты сборки
+calculator/calculator
+calculator/*.o
+*.exe
+*.out
+
+# Временные файлы
+*.log
+*.tmp
